@@ -1,7 +1,7 @@
 ## Premise
 
-In this project, I have leveraged linear programming to optimize the produciton schedule for Falcon Die Casting company to statisfy their customer's weekly demand.
-The LP model has been aplied using the Excel Solver incorporating all the given constraints. The LP model decides which machine to use for producing a partiular part and do that in the available regular time and overtime. The objective is to reduce the overtime producition hours used in order to reduce the related costs. 
+In this project, I have leveraged linear programming to optimize the production schedule for Falcon Die Casting company to statisfy their customer's weekly demand.
+The LP model has been aplied using the Excel Solver incorporating all the given constraints. The LP model decides which machine to use for producing a partiular part and do that in the available regular time and overtime. The objective is to minimize the overtime production hours used in order to reduce the related costs. 
 
 ---
 
